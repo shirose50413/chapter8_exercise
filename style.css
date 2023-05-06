@@ -15,7 +15,7 @@
 }
 
 .list:nth-child(odd) {
-  background-color: #d7d7d7;
+  background-color: #e7e7e7;
 }
 
 .bottom {
@@ -27,7 +27,7 @@
 .region {
   width: 30%;
   height: 200px;
-  background-color: yellow;
+  background-color: #ffda00;
   margin: 0 5% 40px 0;
 }
 
@@ -38,7 +38,7 @@
 .region:first-child,
 .region:nth-child(5),
 .region:last-child {
-  background-color: orange;
+  background-color: #ff8400;
 }
 
 .region:nth-last-child(-n+3) {
